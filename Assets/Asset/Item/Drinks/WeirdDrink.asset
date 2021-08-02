@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b27974602869b5a48a7bed5d017cd93a, type: 3}
+  m_Name: WeirdDrink
+  m_EditorClassIdentifier: 
+  drinkName: "\u602A\u5F02\u7684\u996E\u6599"
+  drinkSprite: {fileID: 21300000, guid: 18699fc8e7b3abc48875efda06619f25, type: 3}
+  description: "\u6839\u636E\u5973\u4EC6\u9152\u5427\u7684\u60EF\u4F8B\uFF0C\u5982\u679C\u8C03\u9152\u5E08\u5931\u8BEF\u4E86\uFF0C\u90A3\u4E48\u4E0B\u4E00\u676F\u996E\u6599\u5C31\u8981\u534A\u4EF7\u3002\n\u8F9B\u8FA3\u3001\u82E6\u6DA9\u3001\u602A\u5F02\u3001\u523A\u6FC0\u3001\u98CE\u683C\u5316\u3002"
+  isAlcoholic: 0
+  isForbidden: 0
+  drinkPrice: 0
+  alcohol: -1
+  sugar: -1
+  water: -1
+  iced: 0
+  olden: 0

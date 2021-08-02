@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b27974602869b5a48a7bed5d017cd93a, type: 3}
+  m_Name: GoGoBalala
+  m_EditorClassIdentifier: 
+  drinkName: "\u82AD\u82AD\u62C9\u51B2\u5440"
+  drinkSprite: {fileID: 21300000, guid: 948be776765f30a448513c6414774f25, type: 3}
+  description: "\u201C\u82AD\u82AD\u62C9\u51B2\u5440\uFF01\u201D\u535A\u58EB\u66FE\u7ECF\u628A\u81EA\u5DF1\u5173\u5728\u81EA\u5DF1\u7684\u623F\u95F4\u91CC\uFF0C\u6574\u6574\u5341\u5929\u6CA1\u6709\u51FA\u95E8\uFF0C\u56DE\u5230\u7F57\u5FB7\u5C9B\u7684\u65F6\u5019\uFF0C\u5634\u91CC\u5600\u5495\u7740\u8FD9\u6837\u4E00\u53E5\u8BDD\u3002\n\u84DD\u8272\u7684\u996E\u6599\u5192\u7740\u6C14\u6CE1\uFF0C\u6DE1\u6DE1\u7684\u9152\u7CBE\u523A\u6FC0\u7740\u5473\u857E\uFF0C\u5FAE\u751C\u7684\u53E3\u611F\u50CF\u662F\u54AC\u4E86\u4E00\u5927\u53E3\u68C9\u82B1\u7CD6\uFF0C\u51B0\u5757\u9010\u6E10\u878D\u5316\uFF0C\u521B\u9020\u51FA\u53E3\u5473\u7684\u5C42\u6B21\u611F\u3002\n\u5FAE\u751C\u3001\u60EC\u610F\u3001\u6E05\u6DE1\u3001\u5973\u6027\u5316\u3002"
+  isAlcoholic: 0
+  isForbidden: 0
+  drinkPrice: 0
+  alcohol: 2
+  sugar: 4
+  water: 6
+  iced: 1
+  olden: 0
